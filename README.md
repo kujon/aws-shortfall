@@ -1,7 +1,7 @@
 # AWS EDP Shortfall Calculator
 
-[![CI](https://github.com/YOUR_USERNAME/aws-shortfall/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/aws-shortfall/actions/workflows/ci.yml)
-[![Release](https://github.com/YOUR_USERNAME/aws-shortfall/actions/workflows/release.yml/badge.svg)](https://github.com/YOUR_USERNAME/aws-shortfall/actions/workflows/release.yml)
+[![CI](https://github.com/kujon/aws-shortfall/actions/workflows/ci.yml/badge.svg)](https://github.com/kujon/aws-shortfall/actions/workflows/ci.yml)
+[![Release](https://github.com/kujon/aws-shortfall/actions/workflows/release.yml/badge.svg)](https://github.com/kujon/aws-shortfall/actions/workflows/release.yml)
 
 A tool to calculate your AWS Enterprise Discount Program (EDP) shortfall by analyzing your AWS Cost Explorer data and automatically detecting which marketplace products are deployed on AWS infrastructure.
 
@@ -19,11 +19,11 @@ A tool to calculate your AWS Enterprise Discount Program (EDP) shortfall by anal
 
 ### From Binary (Recommended)
 
-Download the latest release for your platform from the [releases page](https://github.com/YOUR_USERNAME/aws-shortfall/releases):
+Download the latest release for your platform from the [releases page](https://github.com/kujon/aws-shortfall/releases):
 
 ```bash
 # Linux/macOS
-curl -LO https://github.com/YOUR_USERNAME/aws-shortfall/releases/latest/download/aws-shortfall-$(uname -s | tr '[:upper:]' '[:lower:]')-$(uname -m).tar.gz
+curl -LO https://github.com/kujon/aws-shortfall/releases/latest/download/aws-shortfall-$(uname -s | tr '[:upper:]' '[:lower:]')-$(uname -m).tar.gz
 tar xzf aws-shortfall-*.tar.gz
 chmod +x aws-shortfall-*
 
@@ -34,7 +34,7 @@ sudo mv aws-shortfall-* /usr/local/bin/aws-shortfall
 ### From Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aws-shortfall.git
+git clone https://github.com/kujon/aws-shortfall.git
 cd aws-shortfall
 go build -o aws-shortfall main.go
 ```
