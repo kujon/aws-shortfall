@@ -18,8 +18,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.7 h1:5EniKhL
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.7/go.mod h1:x0nZssQ3qZSnIcePWLvcoFisRXJzcTVvYpAAdYX8+GI=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.21 h1:c31//R3xgIJMSC8S6hEVq+38DcvUlgFY0FM6mSI5oto=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.21/go.mod h1:r6+pf23ouCB718FUxaqzZdbpYFyDtehyZcmP5KL9FkA=
-github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.13.1 h1:hVr8K2XjxW0XpPjGLUV1Eost1BZTSgo2Ix0CcUlfqrw=
-github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.13.1/go.mod h1:myjkAury1t4wCbAfCuZcAqGyYUiLpPb4BRDmQsZMwhg=
+github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.14.0 h1:4f06yRWbfnk4laF9mtgPs8Dx0Ww2jLouKtuOw2qzuAw=
+github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.14.0/go.mod h1:myjkAury1t4wCbAfCuZcAqGyYUiLpPb4BRDmQsZMwhg=
 github.com/aws/aws-sdk-go-v2/service/signin v1.0.9 h1:QKZH0S178gCmFEgst8hN0mCX1KxLgHBKKY/CLqwP8lg=
 github.com/aws/aws-sdk-go-v2/service/signin v1.0.9/go.mod h1:7yuQJoT+OoH8aqIxw9vwF+8KpvLZ8AWmvmUWHsGQZvI=
 github.com/aws/aws-sdk-go-v2/service/sso v1.30.14 h1:GcLE9ba5ehAQma6wlopUesYg/hbcOhFNWTjELkiWkh4=

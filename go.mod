@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.41.5
 	github.com/aws/aws-sdk-go-v2/config v1.32.13
 	github.com/aws/aws-sdk-go-v2/service/costexplorer v1.63.6
-	github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.13.1
+	github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.14.0
 )
 
 require (
