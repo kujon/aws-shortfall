@@ -3,7 +3,7 @@ module github.com/kuba/aws-shortfall
 go 1.26.1
 
 require (
-	github.com/aws/aws-sdk-go-v2 v1.41.5
+	github.com/aws/aws-sdk-go-v2 v1.41.6
 	github.com/aws/aws-sdk-go-v2/config v1.32.13
 	github.com/aws/aws-sdk-go-v2/service/costexplorer v1.63.6
 	github.com/aws/aws-sdk-go-v2/service/marketplaceagreement v1.13.1
@@ -21,5 +21,5 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.30.14 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.18 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.41.10 // indirect
-	github.com/aws/smithy-go v1.24.2 // indirect
+	github.com/aws/smithy-go v1.25.0 // indirect
 )
